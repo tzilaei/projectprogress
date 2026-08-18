@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "What is Project Progress?"
+author: "Letizia Fan"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
