@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Project Progress"
-description:	       "to educate and inform citizens of vancouver and people around the world on ongoing and current issues."
+description:	       "to educate and inform citizens of vancouver and people around the world on ongoing and current issues"
 author:              "Letizia Fan"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
