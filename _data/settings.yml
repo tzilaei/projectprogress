@@ -9,7 +9,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'your part',  url: 'facts'}
 - {name: 'resources', url: 'resources'}
-- {name: 'articles',       url: 'sample-posts'}
+- {name: 'publications',       url: 'sample-posts'}
 - {name: 'documentation',      url: 'documentation'}
 - {name: 'purpose',              url: 'about'}
 - {name: 'contact',            url: 'contact'}
